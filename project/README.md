@@ -1,8 +1,16 @@
-This is my prototype of enterprise.
+# DATABASE 2021 PROJECT WORK
 
-Problems that should be fixed:
-1.создать инвентарь с продуктами для магазинов
-2.продукт тайп не правильный
-3.брэндс и продукт тайп мэни ту мэни
-4.в продуктс авайлабилити и амаунт засунуть тоже в инвентарь
-5.создать отдельную карзину
+Project submission: 04/12/2021
+
+Prepared by: Alexander Park
+
+ID: 20B030309
+
+## Description
+
+This is my prototype of Enterprise
+- For ER diagramm i used Adobe Photoshop 
+- Project done in DataGrip
+- Used Python for getting random number
+- Stores sells ONLY food!
+
