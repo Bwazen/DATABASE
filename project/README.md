@@ -118,7 +118,7 @@ availability boolean NOT NULL
 );
 
 ```
-the table of consumers, where the information about the сustomers is stored. Shop_cart serves as a "check" for the customer.
+The table of consumers, where the information about the сustomers is stored. Shop_cart serves as a "check" for the customer.
 
 ```
 CREATE TABLE customer(
